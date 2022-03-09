@@ -1,0 +1,1 @@
+'store.js' declares and exports the Store class. The constructor takes an object that is used to create a new state object. Accessor properties are then created for getting and setting the state properties. The class also contains methods for registering and removing an update listener, setting the notification order for an action, and setting the state.
